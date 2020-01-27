@@ -1,0 +1,13 @@
+.code-window{
+	width: 150px;
+	height: 170px;
+	background-color: #ffffff;
+	border: 1px solid #000000;
+	border-radius: 10px;
+}
+
+div{
+	color: red;
+	font: 15px, Verdava;
+	border-radius: 2px;
+}
