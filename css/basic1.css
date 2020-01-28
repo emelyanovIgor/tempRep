@@ -8,6 +8,7 @@
 
 div{
 	color: green;
+	background-color: red;
 	font: 15px, Verdava;
 	border-radius: 2px;
 }
